@@ -22,7 +22,7 @@ on:
       DEVICE_TREE:
         description: 'Device Tree URL'
         required: true
-        default: 'https://github.com/mkpromvp/Recovery-tree-for-SM-A146P-'
+        default: 'https://github.com/akro7/Recovery-tree-for-SM-A146P-'
       DEVICE_TREE_BRANCH:
         description: 'Device Tree Branch'
         required: true
